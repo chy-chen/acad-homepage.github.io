@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "林晨悦"
-  avatar           : "D:\图片\Camera Roll"
+  avatar           : "images/picture.jpg"
   bio              : "FuZhou University"
   location         : "Fujian, China"
   employer         :
